@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f23c3ac.css",
+    "main.js": "/static/js/main.06f036c8.js",
+    "static/media/digitalArt.png": "/static/media/digitalArt.c14ef98d756e7ea24d4b.png",
+    "static/media/XiaomiBand.png": "/static/media/XiaomiBand.418f77e3cb2c7db1f479.png",
+    "static/media/DigitalVegitables.png": "/static/media/DigitalVegitables.85c4428a4d2dc6cbd2e3.png",
+    "static/media/FX_logo4.webp": "/static/media/FX_logo4.bdb55277777d7dc09736.webp",
+    "static/media/Imwo.png": "/static/media/Imwo.8cc85f6fcfa37f09c74b.png",
+    "static/media/pic_me_5_5.webp": "/static/media/pic_me_5_5.05a3957b27856449397e.webp",
+    "static/media/bgmain3.webp": "/static/media/bgmain3.cf9d0eb66938d32886d9.webp",
+    "static/media/DMSans-Medium.ttf": "/static/media/DMSans-Medium.64a5ff1b212ef8a741e5.ttf",
+    "static/media/DMSans-Regular.ttf": "/static/media/DMSans-Regular.5796ba67a2ae308b784c.ttf",
+    "static/media/DMSans-Bold.ttf": "/static/media/DMSans-Bold.49af0e9e85f659857710.ttf",
+    "static/media/AllertaStencil-Regular.ttf": "/static/media/AllertaStencil-Regular.8cc527f1047bc770e4a5.ttf",
+    "index.html": "/index.html",
+    "main.5f23c3ac.css.map": "/static/css/main.5f23c3ac.css.map",
+    "main.06f036c8.js.map": "/static/js/main.06f036c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f23c3ac.css",
+    "static/js/main.06f036c8.js"
+  ]
+}
