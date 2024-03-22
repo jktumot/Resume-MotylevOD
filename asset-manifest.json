@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Resume-MotylevOD/static/css/main.2c8cdf14.css",
-    "main.js": "/Resume-MotylevOD/static/js/main.8026dadd.js",
+    "main.css": "/Resume-MotylevOD/static/css/main.5315d73f.css",
+    "main.js": "/Resume-MotylevOD/static/js/main.b1610bac.js",
     "static/media/digitalArt.png": "/Resume-MotylevOD/static/media/digitalArt.c14ef98d756e7ea24d4b.png",
     "static/media/XiaomiBand.png": "/Resume-MotylevOD/static/media/XiaomiBand.418f77e3cb2c7db1f479.png",
     "static/media/DigitalVegitables.png": "/Resume-MotylevOD/static/media/DigitalVegitables.85c4428a4d2dc6cbd2e3.png",
@@ -14,11 +14,11 @@
     "static/media/DMSans-Bold.ttf": "/Resume-MotylevOD/static/media/DMSans-Bold.49af0e9e85f659857710.ttf",
     "static/media/AllertaStencil-Regular.ttf": "/Resume-MotylevOD/static/media/AllertaStencil-Regular.8cc527f1047bc770e4a5.ttf",
     "index.html": "/Resume-MotylevOD/index.html",
-    "main.2c8cdf14.css.map": "/Resume-MotylevOD/static/css/main.2c8cdf14.css.map",
-    "main.8026dadd.js.map": "/Resume-MotylevOD/static/js/main.8026dadd.js.map"
+    "main.5315d73f.css.map": "/Resume-MotylevOD/static/css/main.5315d73f.css.map",
+    "main.b1610bac.js.map": "/Resume-MotylevOD/static/js/main.b1610bac.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c8cdf14.css",
-    "static/js/main.8026dadd.js"
+    "static/css/main.5315d73f.css",
+    "static/js/main.b1610bac.js"
   ]
 }
